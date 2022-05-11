@@ -9,4 +9,4 @@
 
 
 ### Actividad 2: Trabajando con bases de datos
-* Requerimientos: Descargar todos los archivos para que funcione correctamente el programa.
+* Requerimientos: Descargar todos los archivos para que funcione correctamente el programa. (visitas.py ; recepcion.db)
