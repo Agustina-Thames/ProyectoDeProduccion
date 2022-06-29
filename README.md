@@ -12,5 +12,5 @@
 * Requerimientos: Descargar todos los archivos para que funcione correctamente el programa. (visitas.py ; recepcion.db)
 
 ### Actividad 4: Flask
-* Trabajos de Maidana y Rodríguez: 
+* Trabajos de Maidana y Rodríguez: <a href="https://ejercicio-1-maidana-y-rodriguez.melinamaidana05.repl.co/"> Ejercicio1 </a> <a href="https://ejercicio-2-maidana-y-rodriguez.melinamaidana05.repl.co/"> Ejercicio2 </a>
 * Trabajos de Bianchi y Thames: <a href="https://ejercicio1.agustinathames.repl.co"> Ejercicio1 </a> <a href="https://ejercicio2.agustinathames.repl.co"> Ejercicio2 </a>
