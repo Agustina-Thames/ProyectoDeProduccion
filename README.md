@@ -10,3 +10,7 @@
 
 ### Actividad 2: Trabajando con bases de datos
 * Requerimientos: Descargar todos los archivos para que funcione correctamente el programa. (visitas.py ; recepcion.db)
+
+### Actividad 4: Flask
+* Trabajos de Maidana y Rodríguez: 
+* Trabajos de Bianchi y Thames: <a href="https://ejercicio1.agustinathames.repl.co"> Ejercicio 1 </a> <a href="https://ejercicio2.agustinathames.repl.co"> Ejercicio 2 </a>
