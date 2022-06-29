@@ -13,4 +13,4 @@
 
 ### Actividad 4: Flask
 * Trabajos de Maidana y Rodríguez: 
-* Trabajos de Bianchi y Thames: <a href="https://ejercicio1.agustinathames.repl.co"> Ejercicio 1 </a> <a href="https://ejercicio2.agustinathames.repl.co"> Ejercicio 2 </a>
+* Trabajos de Bianchi y Thames: <a href="https://ejercicio1.agustinathames.repl.co"> Ejercicio1 </a> <a href="https://ejercicio2.agustinathames.repl.co"> Ejercicio2 </a>
